@@ -1,0 +1,36 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 47.4rem;
+}.frame-17-cN9 {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.frame-17-cN9 .vector-kz9 {
+  margin-right: 2.6rem;
+  width: 13rem;
+  height: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-17-cN9 .tretifyid-tKf {
+  width: 31.8rem;
+  height: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
